@@ -5,6 +5,6 @@ describe('sample render test', () => {
 
   it('displays the title text', () => {
     cy.get('h2')
-    .contains('Essentials for a cold winter');
+    .contains("Accessibility is not just a buzzword, it's a human right");
   })
 }) 
