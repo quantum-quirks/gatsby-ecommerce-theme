@@ -39,7 +39,7 @@ const HowToUsePage = (props) => {
                 <Button target={true} href="https://www.linkedin.com/company/scalabli">
                   Matter Design & Digital
                 </Button>{' '}
-                (Matter.).
+                (Scalabli.).
               </p>
               <p>
                 The Sydney theme is built for Netlify as an ecommerce theme
