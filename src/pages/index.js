@@ -28,7 +28,7 @@ const IndexPage = () => {
     <Layout disablePaddingBottom>
       {/* Hero Container */}
       <Hero
-        maxWidth={'500px'}
+        maxWidth={'100px'}
         image={'/banner1.png'}
         title={"Accessibility is not just a buzzword, it's a human right"}
         subtitle={'Discover Autumn Winter 2021'}
